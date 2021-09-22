@@ -1,0 +1,39 @@
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.header_div
+{
+    background: cyan;
+    color: red;
+}
+
+.header_div p 
+{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ color: gold;
+ letter-spacing: 2px;
+ font-size: 12px;
+ font-weight: bolder;
+}
+
+.main_div button{
+    font-family: sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    width: 100%;
+    font-size: 15px;
+    background-color: grey;
+    text-shadow: darkgrey;
+    text-align: center;
+    line-height: 3;
+    bottom:0
+}
